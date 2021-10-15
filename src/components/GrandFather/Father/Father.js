@@ -4,7 +4,7 @@ import MySelf from "../../MySelf/MySelf";
 import Sister from "../../Sister/Sister";
 
 const Father = (props) => {
-  const { house, ornaments } = props;
+  const { house } = props;
   return (
     <div>
       <h2>Father</h2>

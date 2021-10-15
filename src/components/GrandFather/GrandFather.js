@@ -4,7 +4,7 @@ import Uncle from "../Uncle/Uncle";
 import Father from "./Father/Father";
 
 const GrandFather = (props) => {
-  const { house, ornaments } = props;
+  const { house } = props;
   return (
     <div>
       <h2>GrandFather</h2>
